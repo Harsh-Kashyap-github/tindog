@@ -2,15 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
-@media(max-width:480px){
-    .doggo{
-        transform: rotate(0deg);
-    }
-    .doggo:hover{
-        transform: rotate(0deg);
-        
-    }
-}
+
 .heading{
     margin: auto;
     font-family: 'Dela Gothic One', cursive;
@@ -36,17 +28,17 @@
     margin-left: auto;
     margin-right: auto;
     height: 40rem;
-    transform: rotateZ(-20deg);
-    transition: 0.2s;
+/*     transform: rotateZ(-20deg); */
+/*     transition: 0.2s; */
     position:relative;
     top:2rem;
     z-index: 1;
 }
-.doggo:hover
-{
-    transform: rotateZ(20deg);
+/* .doggo:hover */
+/* { */
+/*     transform: rotateZ(20deg); */
 
-}
+/* } */
     
 
 .dis{
