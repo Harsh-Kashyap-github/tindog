@@ -25,25 +25,20 @@
 .doggo{
    display: block;
     margin-top: 3.5rem;
-    margin-left: auto;
+    margin-left:auto;
     margin-right: auto;
-    height: 40rem;
-/*     transform: rotateZ(-20deg); */
-/*     transition: 0.2s; */
+    /* width:10rem; */
+    height: 30rem;
+    transform: rotateZ(-15deg);
+    transition: 0.2s;
     position:relative;
     top:2rem;
     z-index: 1;
 }
-/* .doggo:hover */
-/* { */
-/*     transform: rotateZ(20deg); */
+.doggo:hover
+{
+    transform: rotateZ(15deg);
 
-/* } */
-    
-
-.dis{
-    background-color:#fa9905
-    ;
 }
 /* navigation-bar */
 
