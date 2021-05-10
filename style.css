@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
@@ -39,6 +38,12 @@
 {
     transform: rotateZ(15deg);
 
+}
+    
+
+.dis{
+    background-color:#fa9905
+    ;
 }
 /* navigation-bar */
 
@@ -166,3 +171,4 @@ footer{
 .social{
     margin:1rem;
 }
+
