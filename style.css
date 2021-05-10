@@ -1,0 +1,174 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+.heading{
+    margin: auto;
+    font-family: 'Dela Gothic One', cursive;
+    line-height: 1.5;
+    size: 3rem;
+    font-size: 3rem;
+    color: white;
+}
+.head{
+    text-align: center;
+       
+}
+.head h1{
+    margin-top:10rem;
+}
+.head button{
+    margin:2rem;
+}
+/* doogo phone */
+.doggo{
+   display: block;
+    margin-top: 3.5rem;
+    margin-left:auto;
+    margin-right: auto;
+    /* width:10rem; */
+    height: 30rem;
+    transform: rotateZ(-15deg);
+    transition: 0.2s;
+    position:relative;
+    top:2rem;
+    z-index: 1;
+}
+.doggo:hover
+{
+    transform: rotateZ(15deg);
+
+}
+    
+
+.dis{
+    background-color:#fa9905
+    ;
+}
+/* navigation-bar */
+
+.nav-item{
+   color: white !important;
+}
+.navbar-brand{
+    font-size:1.5rem;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.nav-item{
+    margin: 1rem;
+    font-size: large;
+   
+    
+}
+.nav-link{
+    font-weight: lighter;
+    
+}
+
+/* achivements */
+.achive{
+    text-align: center;
+    background-color: #fcecdd;
+    position: relative;
+    z-index: 2;
+    
+}
+.col-lg-4{
+   margin-top: 2rem;
+   margin-bottom: 1rem;
+
+}
+i{
+    color: #fa9905;
+}
+i:hover{
+    color: #c97800;
+}
+
+.achive p,h3{
+    font-family:fantasy;
+    color:#fa9905;
+}
+
+/* popular-stars */
+
+.popular-stars{
+    
+    padding:1rem;
+    padding-top:5rem;
+    background-color:#fa9905 ;
+}
+.carousel-inner,.star{
+    width:auto;
+    height: 30rem;
+    
+}
+
+.carousel-inner{
+    border:  2px solid #FF5200;
+}
+
+#popular-stars-heading
+{
+    color: #fcecdd;
+    font-family:'Dela Gothic One', cursive; 
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+/* pricing */
+
+
+.card-title{
+    font-weight: bold;
+    /* text-align: center; */
+    font-size:3rem;
+}
+.card-header{
+    font-weight: bold;
+    /* text-align: center; */
+}
+.mo{
+    color: gray;
+    font-size: 2rem;
+}
+.pricing{
+    text-align: center;
+    background-color: #fcecdd;
+}
+.card-text{
+    color: gray;
+    margin: 1rem;
+    text-align:center;
+   
+}
+
+/* Download */
+.download{
+    background-color: #fa9905;
+    text-align: center;
+    padding: 2rem;
+   height: 30%;
+    color: #fcecdd;
+}
+.download h2{
+    font-family:'Dela Gothic One', cursive;
+    font-size: 3rem;
+    margin-bottom: 5rem;
+}
+.download button{
+    margin: 1rem;
+}
+
+/* footer */
+footer{
+    background-color: #fcecdd;
+   text-align:center;
+   padding-top: 5rem;
+   padding-bottom: 5rem;
+}
+.social{
+    margin:1rem;
+}
